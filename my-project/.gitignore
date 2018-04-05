@@ -1,10 +1,10 @@
 .DS_Store
 node_modules/
 /dist/
-/buyFruits/
-/HelloWorld/
-/TodoList/
-/TodoList3123123/
+HelloWorld.vue
+TodoList.vue
+buyFruits.vue
+TodoList3123123.vue
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
