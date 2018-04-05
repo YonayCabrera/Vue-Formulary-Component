@@ -22,7 +22,7 @@ npm run build --report
 This is our little project to learn how Vue.js works. In this project we create a component in Vue.js where we give the possibility to the user to create a personalized form.  
 To achieve this, we give the options.
 
-![logo](./src/assets/formulary.jpg)
+![logo](./my-project/src/assets/formulary.jpg)
 
 ## View-Component
 
