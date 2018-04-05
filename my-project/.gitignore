@@ -1,0 +1,18 @@
+.DS_Store
+node_modules/
+/dist/
+./src/components/buyFruits.vue
+./src/components/HelloWorld.vue
+./src/components/TodoList.vue
+./src/components/TodoList3123123.vue
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
