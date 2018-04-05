@@ -8,6 +8,8 @@
       :tel="true"
       :pass="true"
       :verifyPass="true"
+      :materialize="true"
+      :bootstrap="false"
     />
   </div>
 </template>
