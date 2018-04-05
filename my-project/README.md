@@ -25,3 +25,5 @@ To achieve this, we give the options.
 ![logo](./src/assets/formulary.jpg)
 
 ## View-Component
+
+![alt text](https://i.gyazo.com/0171eb020152e5f00afcd7ebf4158d9a.gif)
